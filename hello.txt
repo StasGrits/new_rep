@@ -1,2 +1,3 @@
 hello yo!!!
 whats up?
+how are you? (from feature2)
