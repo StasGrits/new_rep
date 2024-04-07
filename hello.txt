@@ -1,6 +1,4 @@
 hello yo!!!
-<<<<<<< HEAD
-whats up yo? (from user1)
-=======
 whats up? (from user2)
->>>>>>> 8e4ad4271b7c1e46fc588e6823a8515bc27c0035
+some change
+
